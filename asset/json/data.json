@@ -1,0 +1,73 @@
+[
+  {
+    "index": 0,
+    "question": "Inside which HTML element do we put the JavaScript",
+    "answers": [
+      {
+        "value": "<script>"
+      },
+      {
+        "value": "<javascript>"
+      },
+      {
+        "value": "<scripting>"
+      },
+      {
+        "value": "<js>"
+      }
+    ],
+    "answerChoosen": "",
+    "correctAnswer": "<script>"
+  },
+  {
+    "index": 1,
+    "question": "Where is the correct place to insert a JavaScript",
+    "answers": [
+      {
+        "value": "The <head> section"
+      },
+      {
+        "value": "The <body> section"
+      },
+      {
+        "value": "Both the <head> section and the <body> section are correct"
+      }
+    ],
+    "answerChoosen": "",
+    "correctAnswer": "Both the <head> section and the <body> section are correct"
+  },
+  {
+    "index": 2,
+    "question": "1 + 1 = ?",
+    "answers": [
+      {
+        "value": "2"
+      },
+      {
+        "value": "3"
+      },
+      {
+        "value": "4"
+      }
+    ],
+    "answerChoosen": "",
+    "correctAnswer": "2"
+  },
+  {
+    "index": 3,
+    "question": "2 + 2 = ?",
+    "answers": [
+      {
+        "value": "1"
+      },
+      {
+        "value": "4"
+      },
+      {
+        "value": "7"
+      }
+    ],
+    "answerChoosen": "",
+    "correctAnswer": "4"
+  }
+]
